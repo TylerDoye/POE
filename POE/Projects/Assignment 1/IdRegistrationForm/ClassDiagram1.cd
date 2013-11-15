@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IdRegistrationForm.BasicForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQIAASgRQRoQAICAAwICAAAAAoAAAAxAQACBQAQ=</HashCode>
+      <FileName>BasicForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.BasicInfo">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEIIAEAAAABAAAAEAAAEkAAABBAQAggAAAAAAABAAAA=</HashCode>
+      <FileName>BasicInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.BirthForm">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ogAABEACACAEAAhAIIGAAEJCQFIAAAIAAdAJAAAFAAg=</HashCode>
+      <FileName>BirthForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.BirthInfo">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAABAEAEAGBABCCIAAMAgAABBAAAAAQAAAIAA=</HashCode>
+      <FileName>BirthInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.DeathForm">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FACAEiDCAWAAIJggAACAFAISIEIAQhBAAGhAAAKAAiw=</HashCode>
+      <FileName>DeathForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.DeathInfo">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAwCAAAAEREAEBABCAwAAAAAAQBAADAAIIAQAEAA=</HashCode>
+      <FileName>DeathInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.Login">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQACAAAAAAAACAAAACAEABAAAAAgAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.PassportForm">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAwAEACAAgQgBAQCAAAICAAAQAAQABCAAAEEAAAA=</HashCode>
+      <FileName>PassportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.PassportInfo">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAABBAAAAAEAAAAAAAAABAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>PassportInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.Program">
+    <Position X="7" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.Properties.Resources">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdRegistrationForm.Properties.Settings">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="15.75" Y="7" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
