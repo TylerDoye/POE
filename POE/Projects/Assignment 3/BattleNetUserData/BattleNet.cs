@@ -14,7 +14,7 @@ namespace BattleNetUserData
     public partial class frmBattleNet : Form
     {
         // this is the database connection string that will be used throughout this program
-        string sqlConn = @"Data Source=10.113.181.51;Initial Catalog=std\12008079;Integrated Security=True";
+        string sqlConn = @"Data Source=ZERABANE-PC\SQLEXPRESS;Initial Catalog=BattleNet;Integrated Security=True";
         SqlConnection dbConn;
         
 
